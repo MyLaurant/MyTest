@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    # 当前实例的主机名字
+    hostname: localhost
+  client:
+    serviceUrl:
+      # 注册中心地址
+      defaultZone: http://localhost:1111/eureka/
