@@ -9,4 +9,4 @@ spring:
         service-name: ${spring.application.name}
         enabled: true
       host: 127.0.0.1
-      port: 8500
+      port: 8501
